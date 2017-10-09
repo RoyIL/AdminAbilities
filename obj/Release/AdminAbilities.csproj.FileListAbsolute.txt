@@ -1,0 +1,12 @@
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\bin\Release\AdminAbilities.dll
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\bin\Release\AdminAbilities.pdb
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\obj\Release\AdminAbilities.csprojResolveAssemblyReference.cache
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\obj\Release\AdminAbilities.csproj.CoreCompileInputs.cache
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\obj\Release\AdminAbilities.dll
+c:\users\tadhg\source\repos\AdminAbilities\AdminAbilities\obj\Release\AdminAbilities.pdb
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\bin\Release\AdminAbilities.dll
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\bin\Release\AdminAbilities.pdb
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\obj\Release\AdminAbilities.csprojResolveAssemblyReference.cache
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\obj\Release\AdminAbilities.csproj.CoreCompileInputs.cache
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\obj\Release\AdminAbilities.dll
+C:\Users\Tadhg\Documents\GitHub\AdminAbilities\obj\Release\AdminAbilities.pdb
