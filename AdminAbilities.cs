@@ -24,16 +24,13 @@ namespace AdminAbilities
 
         private void Events_OnPlayerConnected(UnturnedPlayer player)
         {
-            for (int index = 0; index < Provider.clients.Count; ++index)
+            if(player.HasPermission("adminabilities"))
             {
-                if (Provider.clients[index].playerID.steamID == player.CSteamID && player.HasPermission("adminabilities"))
-                {
-                    Provider.send(Provider.clients[index].playerID.steamID, ESteamPacket.ADMINED, new byte[2]
+                Provider.send(player.Player.channel.owner.playerID.steamID, ESteamPacket.ADMINED, new byte[]
                     {
-                        (byte) 7,
-                        (byte) index
+                                7,
+                                (byte)Provider.clients.IndexOf(player.Player.channel.owner)
                     }, 2, 0);
-                }
             }
         }
     }
